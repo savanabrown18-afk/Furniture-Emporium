@@ -1,0 +1,9 @@
+Have you created an HTML file to live serve?
+Is the HTML file connected to a JS file?
+Can you prompt the user for froyo flavors and store their input?
+Can you parse the user input into an array of froyo flavors?
+Can you build an object to track which flavors you have counted so far?
+How should that object be updated as you iterate through the array of flavors?
+Are you using functions to organize your code?
+Do your variables and functions have meaningful names?
+Is your code formatted?
